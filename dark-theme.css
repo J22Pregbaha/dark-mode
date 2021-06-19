@@ -1,0 +1,13 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Dark Mode styles */
+body {
+	color: #eee;
+	background: #121212;
+}
+
+a {
+	color: #809fff;
+}
